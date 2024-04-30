@@ -223,7 +223,6 @@
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "WordFinder Зенцов Данил/Ивлев Данил ПИ-22Б";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
